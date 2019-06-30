@@ -167,9 +167,12 @@ winSCP还未成功
 #### 二. SEO优化
 添加了jetpack与yoast插件
 1. 网站主题关键词手动修改优化
-将网站主题从“欢迎来到电影世界”修改成“umasou's blog-欢迎来到电影世界”关键词手动修改优化后，在bing与百度这两个搜索引擎中的对网站首页进行“umasou's blog”的关键词搜索时，其排位都达到了搜索引擎页面第一页第一位。 baidu搜索第一位 bing搜索第一位
-![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/searchname1.png)  
+将网站主题从“欢迎来到电影世界”修改成“umasou's blog-欢迎来到电影世界”关键词手动修改优化后，在bing与百度这两个搜索引擎中的对网站首页进行“umasou's blog”的关键词搜索时，其排位都达到了搜索引擎页面第一页第一位。 baidu搜索第一位 bing搜索第一位   
+修改前
+![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/searchname1.png)   
+修改后，百度搜索页面
 ![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/searchname2.png)  
+修改后，Bing搜索页面
 ![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/searchname3.png)
 2. 网站文章关键词SEO title优化
 根据seo title的优化建议，对文章标题在搜索引擎上的显示采用了关键词组合方式，将“404”“namecheap”“litespeed”“域名”“怎么办”“遇到”“绑定”关键词进行不同的排列组合，试了很多遍后，成功找到了一种排列方式，发现这三个关键词“404”“域名”“litespeed”组合在百度搜索时页面仅有3页，于是我对文章标题进行了优化，用这三个关键词修改了我的文章标题，但由于修改时间过短，百度还未收录此文章  
@@ -186,7 +189,7 @@ winSCP还未成功
 
 3. SEO外链
 使用SEO外链中在相关社交媒体上进行发布动态的方式，将相关的文章在微博进行了外链发布，对网站首页进行SEO外链优化。   
-![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/weibo.png) 
+![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/weibo.jpg) 
 
 4. SEO内链  
 在文章中增加内链后，SEO分析报告变好，文章可读性增强了    
@@ -197,10 +200,11 @@ winSCP还未成功
 ![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/neilian2.png)  
 内链后，SEO分析报告是这样，绿色部分增加了
 ![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/neilian3.png) 
- 可读性分析报告也十分好  
+ 可读性分析报告也显示十分好  
  
   ![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/neilian4.png) 
 
 5. jetpack引导
 通过jetpack插件，观察网站的浏览量在何时是最高的，可以让站长了解到是因为做了什么改动，使得网站的浏览量变高或变低，用可视化图像可以很轻易看出变动。
-![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/jetpack1.png)
+![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/jetpack1.png)  
+![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/jetpack2.png)
