@@ -153,4 +153,4 @@ winSCP还未成功
 所有备份后下载到本地的文件截图
 ![image](https://github.com/Huangj0830/wordpress-operations/blob/master/img/beifen4.png)
 
-### [站长工具](http://note.youdao.com/noteshare?id=1cbd8a5a371c12fa15192a1a8015c148)
+### [站长工具](http://note.youdao.com/noteshare?id=1cbd8a5a371c12fa15192a1a8015c148)（点击文字查看）
